@@ -2,8 +2,9 @@
 ### Computer Security student
 ### My colleagues will hate me but I'm working on becoming Frontend developer right now. Some day I may be Fullstack Developer. Well, don't know for sure, just looking for something that could possibly be interesting for me.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securesvet)](https://github.com/securesvet/github-readme-stats)
-**securesvet/securesvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <--
+**securesvet/securesvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
