@@ -3,7 +3,7 @@ Hey there! My name is Sviatoslav Murzin and currently I'm seeking for a job as a
 
 Here are some of my pet projects:
 1. Metrica of your Web page - https://github.com/securesvet/pythontask
-2. Car constructor - https://github.com/securesvet/car-design (currently under development)
+2. Car constructor - https://github.com/securesvet/car-design-nextjs
 
 [![securesvet's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=securesvet&theme=dark)](https://github.com/securesvet/leetcode-stats)
 
