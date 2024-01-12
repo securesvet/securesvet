@@ -5,6 +5,7 @@ Here are some of my pet projects:
 1. Metrica of your Web page - https://github.com/securesvet/pythontask
 2. Car constructor - https://github.com/securesvet/car-design-nextjs
 3. Google forms clone - https://github.com/securesvet/svet_forms
+4. Mursvet site - https://github.com/securesvet/mursvet
 [![securesvet's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=securesvet&theme=dark)](https://github.com/securesvet/leetcode-stats)
 
 # My Development Stack
