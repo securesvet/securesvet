@@ -10,7 +10,7 @@ Here are some of my pet projects:
 3. Google forms clone - https://github.com/securesvet/svet_forms
 4. Mursvet site - https://github.com/securesvet/mursvet
 5. Aircon - https://github.com/securesvet/aircon
-
+6. Metrica NextJS - https://github.com/securesvet/metrica
 [![securesvet's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=securesvet&theme=dark)](https://github.com/securesvet/leetcode-stats)
 
 # My Development Stack
