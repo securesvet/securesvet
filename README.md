@@ -3,6 +3,7 @@ Hey there! My name is Sviatoslav Murzin and currently I'm seeking for a job as a
 
 Take a look at my website. What if you could found more information there? 
 https://www.mursvet.ru
+https://www.securesvet.net
 
 Here are some of my pet projects:
 1. Metrica of your Web page - https://github.com/securesvet/pythontask
