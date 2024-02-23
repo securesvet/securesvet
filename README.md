@@ -6,12 +6,12 @@ https://www.mursvet.ru
 https://www.securesvet.net
 
 Here are some of my pet projects:
-1. Metrica of your Web page - https://github.com/securesvet/pythontask
+1. Metrica of your Web page (under development) - https://github.com/securesvet/pythontask
 2. Car constructor - https://github.com/securesvet/car-design-nextjs
-3. Google forms clone - https://github.com/securesvet/svet_forms
+3. Google forms clone (under development) - https://github.com/securesvet/svet_forms
 4. Mursvet site - https://github.com/securesvet/mursvet
-5. Aircon - https://github.com/securesvet/aircon
-6. Metrica NextJS - https://github.com/securesvet/metrica
+5. Aircon (under development) - https://github.com/securesvet/aircon
+6. Metrica NextJS (under development) - https://github.com/securesvet/metrica
 7. Bluetooth Bash Script - https://github.com/securesvet/bluetooth-linux-connect-automizer
 [![securesvet's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=securesvet&theme=dark)](https://github.com/securesvet/leetcode-stats)
 
