@@ -13,6 +13,7 @@ Here are some of my pet projects:
 5. Aircon (under development) - https://github.com/securesvet/aircon
 6. Metrica NextJS (under development) - https://github.com/securesvet/metrica
 7. Bluetooth Bash Script - https://github.com/securesvet/bluetooth-linux-connect-automizer
+8. Svet React Components Library - https://github.com/securesvet/svet-rec
 [![securesvet's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=securesvet&theme=dark)](https://github.com/securesvet/leetcode-stats)
 
 # My Development Stack
