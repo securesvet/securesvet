@@ -1,5 +1,5 @@
 # My name is <a href="http://www.mursvet.ru">Svet</a> 👋
-Hey there! My name is Sviatoslav Murzin and currently I'm seeking for a job as a frontend-developer, all of the information about me and my code you can find down below.
+Hey there! My name is Sviatoslav Murzin and currently I'm seeking for a job as a frontend-developer (React, NEXT.JS) , all of the information about me and my code you can find down below.
 
 Take a look at my website. What if you could found more information there? 
 https://www.mursvet.ru
