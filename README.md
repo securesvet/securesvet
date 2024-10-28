@@ -1,5 +1,9 @@
 # My name is <a href="http://www.mursvet.ru">Svet</a> 👋
-My name is Sviatoslav Murzin. Currently I specialize in JavaScript. Free for hire.
+My name is Sviatoslav Murzin. I specialize in JavaScript and all other sorts of interesting stuff such as Game Development and Music (those are some things that should be written with capital letters). 
+
+Had been working for a large international bank in IT sector as a Fullstack, to be extremely precise, JavaScript developer
+
+Free for hire now.
 
 ## 🌐 https://www.mursvet.ru
 
