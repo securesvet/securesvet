@@ -1,7 +1,6 @@
 # My name is <a href="http://www.mursvet.ru">Svet</a> 👋
-Hey there! My name is Sviatoslav Murzin and currently I'm seeking for a job as a frontend-developer (React, NEXT.JS) , all of the information about me and my code you can find down below.
+My name is Sviatoslav Murzin. Currently I specialize in JavaScript. Free for hire.
 
-Website of mine
 ## 🌐 https://www.mursvet.ru
 
 Here are some of my pet projects:
