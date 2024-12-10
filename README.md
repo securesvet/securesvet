@@ -1,7 +1,7 @@
 # My name is <a href="http://www.mursvet.ru">Svet</a> 👋
-My name is Sviatoslav Murzin. I specialize in JavaScript and all other sorts of interesting stuff such as Game Development and Music (those are some things that should be written with capital letters). 
+My name is Sviatoslav Murzin. I specialize in WebDev and all other sorts of interesting stuff such as Game Development and Music
 
-Had been working for a large international bank in IT sector as a Fullstack, to be extremely precise, JavaScript developer
+Had been working for a large international bank in IT sector as a Fullstack JavaScript developer
 
 Free for hire now.
 
@@ -13,7 +13,6 @@ Here are some of my pet projects:
 3. Aircon (under development) - https://github.com/securesvet/aircon
 4. Bluetooth Bash Script - https://github.com/securesvet/bluetooth-linux-connect-automizer
 5. Svet React Components Library (under development) - [https://github.com/securesvet/svet-rsc](https://github.com/securesvet/svet-rsc)
-[![securesvet's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=securesvet&theme=dark)](https://github.com/securesvet/leetcode-stats)
 
 # My Development Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  <br />
