@@ -15,5 +15,5 @@ Here are some of my pet projects:
 5. Svet React Components Library (under development) - [https://github.com/securesvet/svet-rsc](https://github.com/securesvet/svet-rsc)
 
 
-![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  <br />
+![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg) ![Angular](https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg) <br />
 ![](https://komarev.com/ghpvc/?username=securesvet)
