@@ -25,4 +25,4 @@ Aircon (under development) - https://github.com/securesvet/aircon
 Bluetooth Bash Script - https://github.com/securesvet/bluetooth-linux-connect-automizer
 
 <br />
-![views](https://komarev.com/ghpvc/?username=securesvet)
+![](https://komarev.com/ghpvc/?username=securesvet&style=flat-square)
