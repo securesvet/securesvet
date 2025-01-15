@@ -22,7 +22,5 @@ Mursvet site - https://github.com/securesvet/mursvet
 Aircon (under development) - https://github.com/securesvet/aircon
 
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg) <br />
-Bluetooth Bash Script - https://github.com/securesvet/bluetooth-linux-connect-automizer
-
-<br />
+Bluetooth Bash Script - https://github.com/securesvet/bluetooth-linux-connect-automizer <br />
 ![](https://komarev.com/ghpvc/?username=securesvet&style=flat-square)
