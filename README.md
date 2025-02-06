@@ -1,7 +1,7 @@
 # My name is <a href="http://www.mursvet.ru">Svet</a> 👋
 My name is Sviatoslav Murzin. I specialize in WebDev and all other sorts of interesting stuff such as Game Development and Music
 
-Had been working for a large international bank in IT sector as a Fullstack JavaScript developer
+Had been working for a large international bank in IT sector as a JavaScript developer
 
 Free for hire now.
 
