@@ -9,11 +9,15 @@ Free for hire now.
 
 Here are some of my pet projects:
 
-![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg) <br />
-Go Rest API for an interactive game - https://github.com/securesvet/go-rest-api
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
+Bot written in TypeScript deployed with Docker - https://github.com/securesvet/dnd-bot
+
 
 ![Angular](https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
 A website with games built with Angular - https://github.com/securesvet/games-angular
+
+![Go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg) <br />
+Go Rest API for an interactive game - https://github.com/securesvet/go-rest-api
 
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
 Mursvet site - https://github.com/securesvet/mursvet
