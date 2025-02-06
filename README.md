@@ -3,7 +3,7 @@ My name is Sviatoslav Murzin. I specialize in WebDev and all other sorts of inte
 
 Had been working for a large international bank in IT sector as a JavaScript developer
 
-Free for hire now.
+Free for hire
 
 ## 🌐 https://www.mursvet.ru
 
