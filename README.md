@@ -15,9 +15,6 @@ Bot written in TypeScript deployed with Docker - https://github.com/securesvet/d
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
 Web App for storing Characters - https://github.com/securesvet/heroed
 
-![Angular](https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
-A website with games built with Angular - https://github.com/securesvet/games-angular
-
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
 Mursvet site - https://github.com/securesvet/mursvet-next
 
