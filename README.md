@@ -7,7 +7,10 @@ Free for hire
 
 ## 🌐 https://www.mursvet.ru
 
-Here are some of my pet projects:
+Here are some of my projects:
+
+![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg)
+Diehard Tests written with Rust - https://github.com/securesvet/diehard
 
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
 Bot written in TypeScript deployed with Docker - https://github.com/securesvet/dnd-bot
