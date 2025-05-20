@@ -9,7 +9,7 @@ Free for hire
 
 Here are some of my projects:
 
-![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg)
+![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg) <br />
 Diehard Tests written with Rust - https://github.com/securesvet/diehard
 
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) <br />
