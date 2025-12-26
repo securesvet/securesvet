@@ -1,10 +1,4 @@
-# My name is <a href="http://www.mursvet.ru">Svet</a> 👋
-My name is Sviatoslav Murzin. I specialize in WebDev and all other sorts of interesting stuff such as Game Development and Music
-
-Had been working for a large international bank in IT sector as a JavaScript developer
-
-Free for hire
-
+# My name is <a href="http://www.mursvet.ru">Sviatoslav Murzin</a> 👋
 ## 🌐 https://www.mursvet.ru
 
 Here are some of my projects:
